@@ -103,6 +103,4 @@ namespace BankAccount.Tests
 
     }
 
-    // Withdrawing more than available balance - ArgumentException
-
 }
